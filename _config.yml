@@ -1,6 +1,6 @@
 name: lospinones046PostHouse
 favicon: null
-layout_spectrum: 0.1616
+layout_spectrum: 0.76306
 typography_spectrum: 1
 title: Los Piñones 046 PostHouse
 cta:
@@ -22,7 +22,7 @@ color:
     - '#844236'
     - '#ed695a'
     - '#778399'
-  brandStrength: 0.9100397482980043
+  brandStrength: 1
   lightness: 0.05041148397140205
   saturation: 0.9584187283180654
   rhythmicContrast: 0.04773612157441676
