@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Los Piñones 046 PostHouse]]></title>
         <description><![CDATA[Los Piñones 046 PostHouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lospinones046posthouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 00:46:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 00:59:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lospinones046posthouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Diseñadores, animadores y artistas de efectos visuales para llevar tu visión creativa a la vida.</p>]]></description>
+            <link>https://thegrid.ai/lospinones046posthouse/08648392-fe44-4012-ad89-382077734480/index.html</link>
+            <guid isPermaLink="false">08648392-fe44-4012-ad89-382077734480</guid>
+            <pubDate>Wed, 30 Mar 2016 00:59:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefinedcontamos-con-un-centro-creativo-de-edicion-y-montaje-ya-sea/index.html</link>
+            <link>https://thegrid.ai/lospinones046posthouse/contamos-con-un-centro-creativo-de-edicion-y-montaje-ya-sea/index.html</link>
             <guid isPermaLink="false">b78eaae4-368b-485f-9ca1-e2fa4722b987</guid>
             <pubDate>Wed, 30 Mar 2016 00:46:13 GMT</pubDate>
         </item>
