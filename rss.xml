@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Los Piñones 046 PostHouse]]></title>
+        <description><![CDATA[Los Piñones 046 PostHouse]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 00:46:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>undefinedcontamos-con-un-centro-creativo-de-edicion-y-montaje-ya-sea/index.html</link>
+            <guid isPermaLink="false">b78eaae4-368b-485f-9ca1-e2fa4722b987</guid>
+            <pubDate>Wed, 30 Mar 2016 00:46:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
